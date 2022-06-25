@@ -1,0 +1,39 @@
+/* ================================= 
+  Base Element Styles
+==================================== */
+
+body {
+  line-height: 1.6;
+  color: #3a3a3a;
+}
+.profilephoto {
+  width: 10%;
+  box-shadow: 0 2px 2px 0 #6d6161;
+  border-radius: 100px;
+}
+
+a {
+  color: rgb(180, 31, 31);
+  text-decoration: none;
+}
+
+/* ================================= 
+  Base Layout Styles
+==================================== */
+
+/* ---- Layout Containers ---- */
+.wrapper {
+  width: 70%;
+  margin: 0 auto;
+}
+
+#header-container {
+  background: #2c148c;
+}
+
+#footer-container {
+  padding: 2em 0;
+  background: #d9e4ea;
+}
+
+/* ---- Page Elements ---- */
