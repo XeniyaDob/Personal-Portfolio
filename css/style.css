@@ -22,16 +22,17 @@ a {
 ==================================== */
 
 /* ---- Layout Containers ---- */
-.wrapper {
+.container {
   width: 70%;
   margin: 0 auto;
 }
 
-#header-container {
+.main-header {
   background: #2c148c;
 }
 
-#footer-container {
+.main-footer {
+  text-align: center;
   padding: 2em 0;
   background: #d9e4ea;
 }
